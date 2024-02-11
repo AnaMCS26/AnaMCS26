@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning to Full-Stack Software Developer in https://4geeks.com/
+### - 🌱 I’m currently learning to Full-Stack Software Developer in https://4geeks.com/
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">📖</font></font> code: [HTML, CSS, JavaScript, Phyton
 
 - 💬 About me: 
